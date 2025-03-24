@@ -1,7 +1,7 @@
 package planner
 
 import (
-	"myparser/common"
+	"github.com/HanochYuuka/myparser/common"
 )
 
 type UpdatePlan struct {

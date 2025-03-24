@@ -1,4 +1,4 @@
-module myparser
+module github.com/HanochYuuka/myparser
 
 go 1.21.6
 

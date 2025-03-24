@@ -7,11 +7,12 @@ import (
 
 	//LsmDB 的实际导入路径
 	"log"
-	"myparser/common"
-	"myparser/executor"
-	"myparser/lexer"
-	"myparser/parser"
-	"myparser/planner"
+
+	"github.com/HanochYuuka/myparser/common"
+	"github.com/HanochYuuka/myparser/executor"
+	"github.com/HanochYuuka/myparser/lexer"
+	"github.com/HanochYuuka/myparser/parser"
+	"github.com/HanochYuuka/myparser/planner"
 
 	db "github.com/ZLSMDB/stpdb-demo/src"
 )

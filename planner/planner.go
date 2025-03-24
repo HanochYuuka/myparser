@@ -1,8 +1,8 @@
 package planner
 
 import (
-	"myparser/ast"
-	"myparser/common"
+	"github.com/HanochYuuka/myparser/ast"
+	"github.com/HanochYuuka/myparser/common"
 )
 
 type Planner struct{}

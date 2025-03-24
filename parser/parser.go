@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"myparser/ast"
-	"myparser/lexer"
+	"github.com/HanochYuuka/myparser/ast"
+	"github.com/HanochYuuka/myparser/lexer"
 )
 
 type Parser struct {
